@@ -1,4 +1,5 @@
 # Kubernetes & Ceph Entegrasyon Projesi
+![Kubernetes Architecture](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/what-is-kubernetes_kubernetes-community?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1062&hei=620&qlt=100&fit=constrain)
 
 ### 🚀 Proje Hakkında
 Bu proje, yüksek erişilebilirlik ve ölçeklenebilirlik sağlamak amacıyla bir **Ceph dağıtık depolama kümesinin**, **Kubernetes** ortamı üzerine kurulmasını ve entegrasyonunu ele alır. Geliştirilen basit bir API uygulaması, Ceph'in sağladığı kalıcı depolama alanını (Persistent Volume Claim - PVC) kullanarak verilerini kalıcı hale getirir.
